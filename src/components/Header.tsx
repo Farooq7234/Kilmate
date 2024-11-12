@@ -18,8 +18,8 @@ export function Header() {
         </Link>
 
         <div className="flex gap-4">
-          <CitySearch />
-          <ThemeToggle />
+          {/* <CitySearch /> */}
+          {/* <ThemeToggle /> */}
         </div>
       </div>
     </header>
